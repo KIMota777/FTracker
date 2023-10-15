@@ -1,3 +1,7 @@
 # FTracker
-dla adminov
-https://f-tracker-na3mlt.flutterflow.app/
+Ссылка на приложение : https://f-tracker-na3mlt.flutterflow.app/
+
+Номера для входа в систему:
+
+1) +7 942 342-53-12 код 422512
+2) +7 1111111111  код 111111
